@@ -1,0 +1,21 @@
+{
+  "name": "illumime",
+  "description": "my illuminating project",
+  "main": "app",
+  "authors": [
+    "Thomas Selber"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/selbert/illumimes",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7"
+  }
+}
